@@ -1,0 +1,39 @@
+hr {
+    width: 80%;
+}
+
+section {
+    margin-top: 30px;
+}
+
+.description-icon {
+    margin: 0 5px;
+    color: #343a40;
+}
+
+.description-content {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.skills-icon {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+}
+
+.experience-case {
+    margin-top: 40px;
+    text-align: left;
+}
+
+.experience-icon {
+    width: 210px;
+    height: 210px;
+}
+
+.footer {
+    margin-top: 30px;
+    background-color: #343a40;
+    color: white;
+}
